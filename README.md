@@ -2,28 +2,27 @@
 
 ## 🚀 About Me
 - 💻 Computer Science student
-- 🐧 Linux enthusiast
-- ⚡ Interested in Operating Systems, Networking, IoT, and Web Development
-- 🛠️ Exploring Java, GitHub, and Open Source
+- 🐍 Python programmer
+- ⚡ Interested in DSA, Operating Systems, Linux, and Problem Solving
+- 🐧 Linux enthusiast and open-source learner
 
 ---
 
-## 🧰 Tech Stack
-- Java
-- C / C++
-- HTML, CSS, JavaScript
+## 🧰 Skills
+- Python
+- C Programming
+- Data Structures & Algorithms
 - Git & GitHub
-- Ubuntu Linux
+- Linux / Ubuntu
 - VSCodium
 
 ---
 
-## 📌 Featured Project
-### 🛡️ SheShield – Women Safety Web Application
-- SOS emergency alerts
-- Live location sharing
-- Trusted contacts
-- Google Maps integration
+## 📚 Currently Learning
+- Advanced DSA
+- Competitive Programming
+- System Design
+- Open Source Contribution
 
 ---
 
@@ -35,11 +34,12 @@
 
 ---
 
-## 🌱 Currently Learning
-- Full Stack Development
-- Linux workflows
-- System Design
-- Open Source Contribution
+## 🐧 Linux Setup
+- Ubuntu Linux
+- Wayland
+- Flatpak
+- Brave Browser
+- VSCodium
 
 ---
 
@@ -49,4 +49,4 @@
 ---
 
 ## ✨ Fun Fact
-I enjoy customizing Linux setups and building practical projects.
+I enjoy solving programming problems, customizing Linux setups, and learning low-level computer science concepts.
